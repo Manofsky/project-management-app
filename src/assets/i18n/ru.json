@@ -52,7 +52,8 @@
     "Please enter a password": "Пожалуйста, введите пароль",
     "It's at least one special character, e.g., ! @ # ? ]": "Как минимум один специальный символ: ! @ # ? ]",
     "It's necessary a mixture of letters and numbers": "Необходима смесь букв и цифр",
-    "It's necessary at least 8 characters": "Необходимо как минимум 8 символов"
+    "It's necessary at least 8 characters": "Необходимо как минимум 8 символов",
+    "It's necessary at least 5 characters": "Необходимо как минимум 5 символов"
   },
   "loginPage": {
     "title": "Авторизация",

@@ -51,7 +51,8 @@
     "Please enter a password": "Please enter a password",
     "It's at least one special character, e.g., ! @ # ? ]": "It's at least one special character, e.g., ! @ # ? ]",
     "It's necessary a mixture of letters and numbers": "It's necessary a mixture of letters and numbers",
-    "It's necessary at least 8 characters": "It's necessary at least 8 characters"
+    "It's necessary at least 8 characters": "It's necessary at least 8 characters",
+    "It's necessary at least 5 characters": "It's necessary at least 5 characters"
   },
   "loginPage": {
     "title": "Login",

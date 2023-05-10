@@ -69,6 +69,9 @@ export class SignupComponent implements OnInit, OnDestroy {
     ) {
       return 'You must enter a value';
     }
+    if (this.user.controls['login'].hasError('minlength')) {
+      return "It's necessary at least 5 characters";
+    }
 
     return '';
   }
